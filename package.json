@@ -1,0 +1,39 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development --host=0.0.0.0 --port=2333",
+    "build": "webpack --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "",
+  "devDependencies": {
+    "clean-webpack-plugin": "^4.0.0",
+    "copy-webpack-plugin": "^11.0.0",
+    "css-loader": "^6.7.3",
+    "cwebp": "^2.0.5",
+    "fs-extra": "^11.1.0",
+    "i18next": "22.4.9",
+    "i18next-http-backend": "^2.1.1",
+    "path": "^0.12.7",
+    "style-loader": "^3.3.1",
+    "ts-loader": "^9.4.2",
+    "typescript": "^4.9.5",
+    "webfontloader": "^1.6.28",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-server": "^4.11.1"
+  },
+  "dependencies": {
+    "pixi.js": "7.1.2",
+    "pixi-spine": "4.0.3"
+  }
+}

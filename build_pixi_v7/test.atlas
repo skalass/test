@@ -1,0 +1,51 @@
+test.png
+size:458,458
+filter:Linear,Linear
+pma:true
+scale:0.25
+CORBATA
+bounds:274,222,29,73
+Cabeza
+bounds:274,2,116,173
+offsets:0,10,116,183
+rotate:90
+Cejas
+bounds:274,153,67,13
+rotate:90
+Dientes
+bounds:312,268,27,8
+offsets:4,0,32,9
+rotate:90
+FONDO DE OJOS
+bounds:305,249,46,5
+rotate:90
+HOMBRE- Cuerpo -Modelo Final
+bounds:2,9,337,270
+offsets:0,36,395,417
+rotate:90
+IRIS
+bounds:305,239,40,8
+offsets:0,1,40,10
+Labio inferior
+bounds:305,229,30,8
+MANOS
+bounds:348,120,336,87
+offsets:0,2,336,90
+rotate:90
+OJOS Sup
+bounds:289,155,65,16
+rotate:90
+Pelo Mechon
+bounds:274,297,45,49
+offsets:0,2,45,51
+SHADOWS
+bounds:2,348,344,108
+offsets:6,52,355,176
+fondo cuello- traje
+bounds:274,134,65,17
+offsets:0,1,65,18
+lab superior
+bounds:305,222,33,5
+parpados
+bounds:274,121,56,11
+offsets:0,0,58,11
